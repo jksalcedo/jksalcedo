@@ -6,7 +6,7 @@
 </div>
 <div align="center"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jksalcedo&theme=dark" /> <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jksalcedo&theme=dark" /> </div>
 
-- 🌱 I’m currently learning **Kotlin, JavaScript, Node.js, Python**
+- 🌱 I’m currently learning **Kotlin, Python, and Java**
 
 - 📫 How to reach me **jks.create@gmail.com**
 
