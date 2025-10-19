@@ -1,9 +1,9 @@
-A Computer Science student with a passion for mobile development and problem-solving. I'm currently focused on building my skills in creating efficient and user-friendly applications.
+A Computer Science student with a passion for mobile development and problem-solving.
 
 ---
 
-- **Learning:** Kotlin, Python, C++, and Java for Android and backend development.
-- **Current Project:** PassVault - an android app for storing of passwords securely.
+- **Learning:** Python, Java, and Svelte framework.
+- **Current Project:** PassVault - an android app for securely storing of passwords.
 
 ---
 
