@@ -2,9 +2,9 @@ A Computer Science student with a passion for mobile development and problem-sol
 
 ```kotlin
 data class Profile {
-  public val name : String = "Jaressen Kyle Salcedo"
-  public val age : Int = 20
-  public val favLanguage: String = "Kotlin"
+  val name : String = "Jaressen Kyle Salcedo"
+  val age : Int = 20
+  val favLanguage: String = "Kotlin"
 }
 ```
 
