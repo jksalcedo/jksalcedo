@@ -15,29 +15,27 @@ size-adjust: 109%;
 text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="530px" fill="#161b22" rx="15"/>
-
-<text x="50" y="280" class="hello">Hello.</text>
-
-<text x="390" y="30" fill="#c9d1d9">
-<tspan x="390" y="30" font-weight="bold" fill="#3fb950">jksalcedo@arch-linux</tspan> -———————————————————————————————————————————-—-
-<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Android 16 (Rooted), Arch Linux OS</tspan>
-<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Camarines Sur Polytechnic Colleges</tspan>
-<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Shell</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">BS Computer Science</tspan>
-<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Student &amp; Android Developer</tspan>
-<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">Android Studio (Koala), Godot</tspan>
-<tspan x="390" y="150" class="cc">. </tspan>
-<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Main</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">Kotlin, Java, GDScript, Python</tspan>
-<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Data</tspan>:<tspan class="cc"> ............ </tspan><tspan class="value">SQL (Supabase), JSON</tspan>
-<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Frameworks</tspan>:<tspan class="cc"> ................. </tspan><tspan class="value">Compose, Ktor, MVVM, Hilt</tspan>
-<tspan x="390" y="230" class="cc">. </tspan>
-<tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Active Projects</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">PassVault, LibreFind, CronTact</tspan>
-<tspan x="390" y="310">- Connectivity</tspan> -——————————————————————————————————————————————-—-
-<tspan x="390" y="350" class="cc">. </tspan><tspan class="key">Cloud</tspan>:<tspan class="cc"> ...................... </tspan><tspan class="value">Azure, Google Cloud, Supabase</tspan>
-<tspan x="390" y="370" class="cc">. </tspan><tspan class="key">Security</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">AES-GCM, Argon2</tspan>
-<tspan x="390" y="410" class="cc">. </tspan><tspan class="key">Status</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">FOSS Enthusiast &amp; Student</tspan>
-<tspan x="390" y="450">- Live Stats</tspan> -—————————————————————————————————————————-—-
-<tspan x="390" y="470" class="cc">. </tspan><tspan class="key">Android Apps</tspan>:<tspan class="cc"> .... </tspan><tspan class="value">3+</tspan> {<tspan class="key">Phase</tspan>: <tspan class="value">Beta/FOSS</tspan>} | <tspan class="key">Uptime</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">CS Student</tspan>
-<tspan x="390" y="490" class="cc">. </tspan><tspan class="key">Vibe</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">Open Source or Nothing</tspan>
-<tspan x="390" y="510" class="cc">. </tspan><tspan class="key">Current Task</tspan>:<tspan class="cc">. </tspan><tspan class="value">Migrating LibreFind to Supabase</tspan>
+<text x="40" y="280" class="hello">Hello.</text>
+<text x="300" y="30" fill="#c9d1d9">
+<tspan x="350" y="30" font-weight="bold" fill="#3fb950">jksalcedo@arch-linux</tspan> -———————————————————————————————————————————-—-
+<tspan x="350" y="50" class="cc">. </tspan><tspan class="key">OS              </tspan><tspan class="cc">:   </tspan><tspan class="value">Android 16 (Rooted), Arch Linux. Windoows 10</tspan>
+<tspan x="350" y="70" class="cc">. </tspan><tspan class="key">Host            </tspan><tspan class="cc">:   </tspan><tspan class="value">Camarines Sur Polytechnic Colleges</tspan>
+<tspan x="350" y="90" class="cc">. </tspan><tspan class="key">Shell           </tspan><tspan class="cc">:   </tspan><tspan class="value">BS Computer Science</tspan>
+<tspan x="350" y="110" class="cc">. </tspan><tspan class="key">Role            </tspan><tspan class="cc">:   </tspan><tspan class="value">Student &amp; Android Developer</tspan>
+<tspan x="350" y="130" class="cc">. </tspan><tspan class="key">IDE             </tspan><tspan class="cc">:   </tspan><tspan class="value">Android Studio (Koala), Godot</tspan>
+<tspan x="350" y="150" class="cc">. </tspan>
+<tspan x="350" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Main   </tspan><tspan class="cc">:   </tspan><tspan class="value">Kotlin, Java, GDScript, Python</tspan>
+<tspan x="350" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Data   </tspan><tspan class="cc">:   </tspan><tspan class="value">SQL (Supabase), JSON</tspan>
+<tspan x="350" y="210" class="cc">. </tspan><tspan class="key">Frameworks      </tspan><tspan class="cc">:   </tspan><tspan class="value">Compose, Ktor, MVVM, Koin</tspan>
+<tspan x="350" y="230" class="cc">. </tspan>
+<tspan x="350" y="250" class="cc">. </tspan><tspan class="key">Active Projects </tspan><tspan class="cc">:   </tspan><tspan class="value">PassVault, LibreFind, compose-to-pdf</tspan>
+<tspan x="350" y="310">- Connectivity</tspan> -——————————————————————————————————————————————-—-
+<tspan x="350" y="350" class="cc">. </tspan><tspan class="key">Cloud           </tspan><tspan class="cc">:   </tspan><tspan class="value">Azure, Google Cloud, Supabase, Firebase</tspan>
+<tspan x="350" y="370" class="cc">. </tspan><tspan class="key">Security        </tspan><tspan class="cc">:   </tspan><tspan class="value">AES-GCM, Argon2</tspan>
+<tspan x="350" y="410" class="cc">. </tspan><tspan class="key">Status          </tspan><tspan class="cc">:   </tspan><tspan class="value">FOSS Enthusiast &amp; Student</tspan>
+<tspan x="350" y="450">- Live Stats</tspan> -—————————————————————————————————————————-—-
+<tspan x="350" y="470" class="cc">. </tspan><tspan class="key">Android Apps    </tspan><tspan class="cc">:   </tspan><tspan class="value">3+ </tspan>{<tspan class="key">Phase</tspan>: <tspan class="value">Beta/FOSS</tspan>}
+<tspan x="350" y="490" class="cc">. </tspan><tspan class="key">Vibe            </tspan><tspan class="cc">:   </tspan><tspan class="value">Open Source or Nothing</tspan>
+<tspan x="350" y="510" class="cc">. </tspan><tspan class="key">Current Task    </tspan><tspan class="cc">:   </tspan><tspan class="value">Migrating LibreFind to Supabase</tspan>
 </text>
 </svg>
