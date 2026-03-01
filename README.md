@@ -9,9 +9,5 @@ data class Profile {
 ```
 
 ---
-
-  <p align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jksalcedo&theme=dark" />
-    
-  </p>
-
+![Productive Time Card](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jksalcedo&theme=radical&utcOffset=8)
+[![Your Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jksalcedo&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
